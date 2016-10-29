@@ -22,5 +22,11 @@ int main(int argc, char* argv[]){
 	//(0,0), (1,0), (0.5, 1)
 	//openGL has a right handed coordinate system.
 
+	//Next video discusses the game loop, the main loop to update info.
+
+
+
+
+
 	return application.exec();
 }
